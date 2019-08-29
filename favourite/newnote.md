@@ -17,6 +17,7 @@ PercentageLow=10找到这一行,修改这个10
 (~/Github/learnGit/readme.md)
 # Applications
 (~/.config/AppNotes.md)
+
 (~/nutStore/config/Auto.sh)
 
 TODO:

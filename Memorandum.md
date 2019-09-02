@@ -1,4 +1,8 @@
+# github
+- add commit push 这3步添加1个新文件
+- rm commit push 这3步删除文件
 # VIM
+
 (~/.vim/vimNotes.md)
 - :v/\s*./d删除空行
 - :%s/\/.*$//g 替换/以及后面的内容为空
@@ -17,7 +21,6 @@ PercentageLow=10找到这一行,修改这个10
 (~/Github/learnGit/readme.md)
 # Applications
 (~/.config/AppNotes.md)
-
 (~/nutStore/config/Auto.sh)
 
 TODO:
